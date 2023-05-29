@@ -15,7 +15,7 @@ class generator;
   }
   
   constraint control_rst_ce {
-    ( rst == 0 ) <-> (ce == 1); 
+    ( rst == 0 ) -> (ce == 1); 
   }
   
 endclass
