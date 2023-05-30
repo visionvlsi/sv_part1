@@ -43,6 +43,5 @@ module tb;
     
   end
   
-  
 endmodule
 ```
