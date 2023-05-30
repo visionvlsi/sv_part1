@@ -9,7 +9,7 @@
 - [Task usgae inside the class](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/5taskInClass.md)
 - [One class instance inside another class](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/6classInsideClass.md)
 - [Class Data member with local keyword](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/7scopeOfDataMember.md)
-- [Coping object](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/8copingObject.md)
+- [Copying object](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/8copingObject.md)
 - [Custom method to copy the object](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/9customMethodToCopyObject.md)
 - [Shallow copy example](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C10shallowCopy.md)
 - [Deep copy example](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C11deepCopy.md)
