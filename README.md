@@ -2,9 +2,9 @@
 
 
 
-\<li>[sv_oops](https://github.com/visionvlsi/sv_part1/tree/main/sv_oops)\<li/>
+-- [sv_oops](https://github.com/visionvlsi/sv_part1/tree/main/sv_oops)
 <br/>
-<li> \[sv_randomization](https://github.com/visionvlsi/sv_part1/tree/main/sv_randomization)\   <li/>
+-- [sv_randomization](https://github.com/visionvlsi/sv_part1/tree/main/sv_randomization)
 <br/>
-<li> \[sv-IPC](https://github.com/visionvlsi/sv_part1/tree/main/sv_IPC)\   <li/>
+-- [sv-IPC](https://github.com/visionvlsi/sv_part1/tree/main/sv_IPC)
 
