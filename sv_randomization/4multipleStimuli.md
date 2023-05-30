@@ -1,5 +1,4 @@
 
-
 ```
 class generator;
   
@@ -25,5 +24,4 @@ module tb;
   end
   
   endmodule
-
 ```
