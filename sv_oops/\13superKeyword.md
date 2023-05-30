@@ -7,7 +7,6 @@ class first; ////////////parent class
     this.data = data;  
   endfunction
   
-  
 endclass
  
 class second extends first;
@@ -29,7 +28,4 @@ module tb;
   end
   
 endmodule
-
-
-
 ```
