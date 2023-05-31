@@ -2,7 +2,7 @@
 
 <p align="justify">In this chapter the required fundamentals of Object Oriented Programming concepts that are pertaining to SV will be covered</p> 
 
-- [Basic example of usage of class](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/1class_ex1.md)
+- [Basic example usage of class](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/1class_ex1.md)
 - [Example usage of null to destroy the created object](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/2class_ex2.md)
 - [Class with custom constructor](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/3class_userDefinedConstructor.md)
 - [Class with custom constructor with multiple arguments](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/4multiArgumentConstructor.md)
