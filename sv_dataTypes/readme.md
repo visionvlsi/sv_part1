@@ -18,3 +18,23 @@
 
 - Constants
     - The value of constants cannot be changed. It is read-only in nature.
+
+#### Integer Data types
+
+Data type | Description
+---|---
+int| 2 state data type, 32-bit signed integer
+---|---
+integer| 4 state data type, 32-bit signed integer
+---|---
+shortint| 2 state data type, 16-bit signed integer
+---|---
+longint|2 state data type, 64-bit signed integer
+---|---
+bit|2 state data type, unsigned, user-defined vector size
+---|---
+byte|2 state data type, 8-bit signed integer or ASCII character
+---|---
+logic|4 state data type, unsigned, user-defined vector size
+---|---
+reg|4 state data type, unsigned, user-defined vector size
