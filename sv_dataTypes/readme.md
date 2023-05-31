@@ -22,7 +22,6 @@
 #### Integer Data types
 
 Data type | Description
----|---
 int| 2 state data type, 32-bit signed integer
 integer| 4 state data type, 32-bit signed integer
 shortint| 2 state data type, 16-bit signed integer
