@@ -21,4 +21,4 @@ module tb;
     $display("%h",b1.getdata());
   end
 endmodule
-    ```
+```
