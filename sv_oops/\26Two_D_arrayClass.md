@@ -20,3 +20,27 @@ module tb;
   end
 endmodule
 ```
+#### 2D Array class with this keyword
+```
+// Code your testbench here
+// or browse Examples
+class array;
+  reg a[2:0][2:0];
+  
+  function new(reg a[2:0][2:0]);
+    this.a = a;
+  endfunction
+  
+  function void display();
+    $display("%p",a);
+  endfunction
+endclass
+  
+  module tb;
+    initial begin
+      array a1;
+      a1 = new({'{1,0,1},'{1,1,0},'{1,1,1}});
+      a1.display();
+    end
+  endmodule
+  ```
