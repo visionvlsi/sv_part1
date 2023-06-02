@@ -1,4 +1,5 @@
 
+#### Example-1
 ```
 // Code your testbench here
 // or browse Examples
@@ -30,3 +31,32 @@ module tb;
    end
 endmodule
 ```
+#### Example-2
+```
+// Code your testbench here
+// or browse Examples
+class H;
+  //static variable
+  static int pkt_num=0;
+ 
+  function new();
+    pkt_num++;
+  endfunction
+  //static function
+  static function int static_func;
+    $display("value of static variable is %0d",pkt_num);
+  endfunction
+endclass
+  program main_H;
+    H h[6];
+    initial begin
+      for(int i=0;i<$size(h);i++)begin
+          h[i]=new();
+          //static call using :: operator
+           H::static_func();
+          //normal calling using instance
+          //h[i].static_func();
+        end
+       end
+  endprogram
+  ```
