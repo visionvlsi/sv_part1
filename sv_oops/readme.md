@@ -27,3 +27,4 @@
 - [Usage of access specifiers - local, protected, static](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C23accessSpecifiers.md)
 - [Polymorphism example](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C24polymorphism.md)
 - [Parameterized class](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C25parameterizedClass.md)
+- [2D Array class](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C26Two_D_arrayClass.md)
