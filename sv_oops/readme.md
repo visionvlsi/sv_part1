@@ -28,3 +28,4 @@
 - [Polymorphism example](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C24polymorphism.md)
 - [Parameterized class](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C25parameterizedClass.md)
 - [2D Array class](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C26Two_D_arrayClass.md)
+- [Abstract class example](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C27abstractClass.md)
