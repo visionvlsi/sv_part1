@@ -21,3 +21,24 @@ module tb;
 endmodule
 
 ```
+```
+// Code your testbench here
+// or browse Examples
+class d;
+  bit [3:0]a;
+  byte b;
+  task disp();
+    $display("%d %d",a,b);
+  endtask
+endclass
+
+module tb;
+  d d1=new();
+  
+  initial begin
+    d1.a = 15;
+    d1.b = 50;
+    d1.disp();
+  end
+endmodule
+  ```
