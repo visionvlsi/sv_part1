@@ -25,3 +25,4 @@
 - [Inheritance example](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C21classInheritanceExample.md)
 - [Usage of super keyword](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C22UsageOfSuperKeyword.md)
 - [Usage of access specifiers - local, protected, static](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C23accessSpecifiers.md)
+- [Polymorphism example](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C24polymorphism.md)
