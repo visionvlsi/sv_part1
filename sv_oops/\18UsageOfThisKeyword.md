@@ -38,3 +38,26 @@ module sv_constructor;
   
 endmodule
 ```
+```
+// Code your testbench here
+// or browse Examples
+class d;
+  int x;
+  bit [3:0]y;
+  function new(int x,bit [3:0]y);
+    this.x = x;
+    this.y = y;
+  endfunction
+  function void display();
+    $display("%d %d",x,y);
+  endfunction
+endclass
+
+module tb;
+  d d1;
+  initial begin
+    d1 = new(10,5);
+    d1.display();
+  end
+endmodule
+```
