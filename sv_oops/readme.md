@@ -16,4 +16,5 @@
 - [Inheritance and Polymorphism ](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C12inheritancePolymorphism.md)
 - [Super keyword example](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C13superKeyword.md)
 - [Class example with program block](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C14classExampleWithProgramBlock.md)
-- [Example of Null pointer error and how to avoid it](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C15null_pointer_access_Error.md) 
+- [Example of Null pointer error and how to avoid it](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C15null_pointer_access_Error.md)
+- [Usage of typedef in class](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C16usageofTypedefInClass.md)
