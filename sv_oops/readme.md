@@ -32,3 +32,4 @@
 - [Pure virtual method](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C28pure_virtual.md)
 - [Scope resolution operator](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C29scope_resolution.md)
 - [extern keyword](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C30usageOf-extern.md)
+- [static keyword](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C31static_keyword.md)
