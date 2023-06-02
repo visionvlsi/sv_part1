@@ -22,3 +22,4 @@
 - [Usage of this keyword](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C18UsageOfThisKeyword.md)
 - [Class with display function](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C19classwithdisplayfunction.md)
 - [Extended class example](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C20classextension.md)
+- [Inheritance example](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C21classInheritanceExample.md)
