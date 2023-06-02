@@ -20,3 +20,4 @@
 - [Usage of typedef in class](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C16usageofTypedefInClass.md)
 - [Class with different data types](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C17classWithDifferentDataTypes.md)
 - [Usage of this keyword](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C18UsageOfThisKeyword.md)
+- [Class with display function](https://github.com/visionvlsi/sv_part1/blob/main/sv_oops/%5C19classwithdisplayfunction.md)
