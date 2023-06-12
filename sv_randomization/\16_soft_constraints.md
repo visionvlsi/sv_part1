@@ -3,6 +3,7 @@
 <p align="justify">Evenif there is any conflict constraint available, 
 soft keyword gives some flexibility to the constraint and the compiler gives no error...
 Hard constraint is similar to normal constraint</p>
+
 ```
 class inline;
   rand bit [3:0] a;
