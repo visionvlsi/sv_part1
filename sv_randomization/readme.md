@@ -18,3 +18,4 @@
 - [Usage of constraint_mode to turn-on and turn-off the constraints](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C14contraintsONOFF.md)
 - [inline constraints](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C15_inline_constraints.md)
 - [soft constraints](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C16_soft_constraints.md)
+- [array randomization](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C17_array_randomization.md)
