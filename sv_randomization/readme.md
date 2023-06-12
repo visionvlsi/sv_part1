@@ -17,3 +17,4 @@
 - [Usage of if-else in constraint randomization](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C13ifElseOperator.md)
 - [Usage of constraint_mode to turn-on and turn-off the constraints](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C14contraintsONOFF.md)
 - [inline constraints](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C15_inline_constraints.md)
+- [soft constraints](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C16_soft_constraints.md)
