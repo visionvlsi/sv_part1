@@ -1,4 +1,4 @@
-#### Example of explicit bins
+#### Example of explicit bins:
 
 ```
 class pkt;
