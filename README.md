@@ -6,4 +6,5 @@
 - [sv_randomization](https://github.com/visionvlsi/sv_part1/tree/main/sv_randomization#readme)
 - [sv-IPC](https://github.com/visionvlsi/sv_part1/tree/main/sv_IPC#readme)
 - [sv_interface](https://github.com/visionvlsi/sv_part1/tree/main/sv_interface#readme)
+- [sv_covergroup](https://github.com/visionvlsi/sv_part1/blob/main/sv_covergroup/readme.md)
 
