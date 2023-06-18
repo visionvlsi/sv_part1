@@ -1,3 +1,6 @@
+#### Q: What is functional coverage
+<p align="justify">Ans: metric that measures how much of the design specification has been exercised in verification</p>
+
 #### To cover sv covergroup, coverpoints, bins
 
 covergroup -> coverpoint -> bins
