@@ -30,3 +30,4 @@ module top;
 		 
 endmodule
 ```
+[code on EDAPlayground](https://edaplayground.com/x/Nv26)
