@@ -24,6 +24,7 @@ module top;
 				repeat(10)
 				begin
 					p.randomize();
+					$display("addr=%0d data=%0d", p.addr,p.data);
 					c.sample();
 				end
 			end
