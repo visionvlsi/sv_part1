@@ -1,8 +1,6 @@
 
 
 ```
-// Code your testbench here
-// or browse Examples
 class pkt;
  rand bit [3:0]addr;
  rand bit [3:0]data;
