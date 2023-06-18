@@ -1,5 +1,5 @@
 #### Q: What is functional coverage
-<p align="justify"><<b>Ans:</b>metric that measures how much of the design specification has been exercised in verification</p>
+<p align="justify"><b>Ans:</b>metric that measures how much of the design specification has been exercised in verification</p>
 
 covergroup -> coverpoint -> bins
 
