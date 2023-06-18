@@ -37,3 +37,7 @@ module top;
 	
 endmodule
 ```
+<p align="justify"> In EDAPlayground if Questasim is used the create a file called run.do with the following commands<br/>
+- run -all
+- coverage report -detail
+</p>
