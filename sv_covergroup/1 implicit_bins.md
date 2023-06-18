@@ -1,4 +1,4 @@
-#### Example of implicit bins
+#### Example of implicit bins:
 
 ```
 // Implicit bins example
