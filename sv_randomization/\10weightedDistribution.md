@@ -1,4 +1,4 @@
-
+#### Example 1
 ```
 //         := vs :/
 
@@ -40,5 +40,31 @@ module tb;
     
   end
    
+endmodule
+```
+#### Example 2 write constraint 8bit data, 0-100 for 70% and 101-255 30%
+```
+class cons;
+rand bit [7:0]a;
+  constraint x{a dist {[0:100]:/70,[101:255]:/30};}
+function void post_randomize();
+$display(a);
+endfunction
+endclass
+cons c;
+module top;
+int count;
+initial
+begin
+c=new;
+repeat(100)
+begin
+c.randomize;
+if(c.a<101)
+count=count+1;
+end
+$display("No of entries less than 100 are %0d",count);
+$display("No of entries less than 100 are %0d",100-count);
+end
 endmodule
 ```
