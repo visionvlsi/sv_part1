@@ -19,3 +19,4 @@
 - [inline constraints](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C15_inline_constraints.md)
 - [soft constraints](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C16_soft_constraints.md)
 - [array randomization](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C17_array_randomization.md)
+- [When randc fails](https://github.com/visionvlsi/sv_part1/blob/main/sv_randomization/%5C18_when_randc_fails.md)
