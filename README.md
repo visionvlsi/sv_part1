@@ -3,6 +3,7 @@
 
 - [sv_data types](https://github.com/visionvlsi/sv_part1/tree/main/sv_dataTypes)
 - [sv_arrays](https://github.com/visionvlsi/sv_part1/blob/main/sv_arrays/readme.md)
+- [sv_shallow_and_deep_copy](https://github.com/visionvlsi/sv_part1/tree/main/sv_shallow_deep_copy)
 - [sv_oops](https://github.com/visionvlsi/sv_part1/tree/main/sv_oops#readme)
 - [sv_randomization](https://github.com/visionvlsi/sv_part1/tree/main/sv_randomization#readme)
 - [sv-IPC](https://github.com/visionvlsi/sv_part1/tree/main/sv_IPC#readme)
